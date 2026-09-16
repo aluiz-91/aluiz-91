@@ -1,6 +1,5 @@
 # André Luiz
 
-[![Wakatime](https://wakatime.com/badge/user/SEU_USUARIO_WAKATIME.svg)](https://wakatime.com/@SEU_USUARIO_WAKATIME)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
