@@ -1,15 +1,15 @@
 # André Luiz
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_PERFIL_AQUI">
+  <a href="https://www.linkedin.com/in/andresilva-finanças">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:al91dasilva@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-<!-- ESTA É A PARTE QUE CORRIGE O DESENHO -->
+<!-- 👇 ESTA É A LINHA QUE PRECISA DE ATENÇÃO 👇 -->
 <img align="right" src="./meu-avatar.png" width="220" alt="Avatar de André Luiz">
 
 Sou desenvolvedor focado em automação, bancos de dados e soluções web. Apaixonado por criar ferramentas funcionais, otimização de fluxos e análise de dados.
@@ -25,7 +25,21 @@ Sou desenvolvedor focado em automação, bancos de dados e soluções web. Apaix
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
+### GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aluiz-91&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluiz-91&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aluiz-91&theme=react-dark" alt="Gráfico de Atividade" width="100%"/>
+</p>
