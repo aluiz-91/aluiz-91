@@ -29,13 +29,13 @@ Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
 </p>
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&count_private=true" alt="Estatísticas do GitHub" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aluiz-91&theme=onedark&no-frame=false&margin-w=15" alt="Conquistas" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&count_private=true" alt="Estatísticas do GitHub" width="49%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aluiz-91&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&border_color=facc15&hide=html,css" alt="Linguagens Mais Usadas" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluiz-91&background=000000&title=facc15&text=ffffff&sideLabels=ffffff&sideNums=facc15&currStreakNum=facc15&currStreakLabel=facc15&dates=ffffff&border=facc15&ring=facc15&fire=facc15" alt="Sequência de Commits" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aluiz-91&bg_color=000000&color=facc15&line=facc15&point=ffffff&area=true&hide_border=false" alt="Gráfico de Atividade" width="100%"/>
 </p>
