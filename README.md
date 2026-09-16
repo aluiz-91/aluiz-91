@@ -29,14 +29,3 @@ Sou desenvolvedor focado em automação, bancos de dados e soluções web. Apaix
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-### GitHub Statistics
-
-<!-- ESTA PARTE CORRIGE OS GRÁFICOS QUE NÃO APARECIAM -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aluiz-91&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluiz-91&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aluiz-91&theme=react-dark" alt="Gráfico de Atividade" width="100%"/>
-</p>
