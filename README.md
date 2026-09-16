@@ -10,7 +10,7 @@
 </p>
 
 <!-- 👇 ESTA LINHA CARREGA A IMAGEM QUE VOCÊ SUBIU 👇 -->
-<img align="right" src="./meu-avatar.png" width="220" alt="Avatar de André Luiz">
+<img align="right" src="./meu-avatar.jpg" width="220" alt="Avatar de André Luiz">
 
 Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python, SQL e Power BI para modelagem de dados, análise preditiva e criação de dashboards gerenciais.
 
