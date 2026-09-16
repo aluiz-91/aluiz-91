@@ -32,8 +32,7 @@ Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&theme=synthwave&count_private=true" alt="Estatísticas do GitHub" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aluiz-91&theme=synthwave&no-frame=true&margin-w=15" alt="Conquistas" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&theme=synthwave&count_private=true" alt="Estatísticas do GitHub" width="80%"/>
 </p>
 
 <p align="center">
