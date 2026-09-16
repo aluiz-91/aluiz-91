@@ -1,38 +1,38 @@
 # André Luiz
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andresilva-finanças">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:al91dasilva@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-<!-- 👇 ESTA LINHA CARREGA A IMAGEM QUE VOCÊ SUBIU 👇 -->
-<img align="right" src="./meu-avatar.jpg" width="220" alt="Avatar de André Luiz">
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresilva-finanças)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al91dasilva@gmail.com)
 
 Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python, SQL e Power BI para modelagem de dados, análise preditiva e criação de dashboards gerenciais.
 
+<img align="right" src="meu-avatar.png" alt="André Luiz Avatar" width="220" />
+
 ### 🚀 Experience Highlights
 
-*   **Python & Automation:** Desenvolvimento de scripts de automação, integrações via API e bots.
-*   **Database Management:** Modelagem e consultas complexas em SQL (MySQL, SQL Server).
-*   **Data Visualization & Analytics:** Criação de dashboards interativos no Power BI para suporte à tomada de decisão.
-*   **Modern Web Tools:** Desenvolvimento de interfaces estáticas focadas em usabilidade e performance.
+* **Python & Automation:** Desenvolvimento de scripts de automação, manipulação de dados com Pandas e integrações via API.
+* **Database Management:** Modelagem, criação de schemas e consultas complexas em SQL (MySQL e SQL Server).
+* **Data Visualization & Analytics:** Criação de dashboards interativos no Power BI com DAX e modelagem star schema para suporte à tomada de decisão.
+* **ETL & Data Pipelines:** Extração, limpeza, tratamento e carga de dados estruturados para análise relacional e relatórios gerenciais.
 
-### Technologies & Tools
+---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### GitHub Statistics
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&count_private=true" alt="Estatísticas do GitHub" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&count_private=true" alt="Estatísticas do GitHub" width="49%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aluiz-91&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&border_color=facc15&hide=html,css" alt="Linguagens Mais Usadas" width="49%"/>
 </p>
 
 <p align="center">
