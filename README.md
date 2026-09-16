@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<!-- 👇 ESTA É A LINHA QUE PRECISA DE ATENÇÃO 👇 -->
+<!-- 👇 ESTA LINHA CARREGA A IMAGEM QUE VOCÊ SUBIU 👇 -->
 <img align="right" src="./meu-avatar.png" width="220" alt="Avatar de André Luiz">
 
 Sou desenvolvedor focado em automação, bancos de dados e soluções web. Apaixonado por criar ferramentas funcionais, otimização de fluxos e análise de dados.
@@ -24,11 +24,9 @@ Sou desenvolvedor focado em automação, bancos de dados e soluções web. Apaix
 ### Technologies & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
 </p>
 
 ### GitHub Statistics
