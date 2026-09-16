@@ -5,7 +5,7 @@
 
 Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python, SQL e Power BI para modelagem de dados, análise preditiva e criação de dashboards gerenciais.
 
-<img align="right" src="meu-avatar.png" alt="André Luiz Avatar" width="220" />
+<img align="right" src="meu-avatar.jpg" alt="André Luiz Avatar" width="220" />
 
 ### 🚀 Experience Highlights
 
