@@ -12,7 +12,7 @@
 <!-- 👇 ESTA LINHA CARREGA A IMAGEM QUE VOCÊ SUBIU 👇 -->
 <img align="right" src="./meu-avatar.png" width="220" alt="Avatar de André Luiz">
 
-Sou desenvolvedor focado em automação, bancos de dados e soluções web. Apaixonado por criar ferramentas funcionais, otimização de fluxos e análise de dados.
+Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python, SQL e Power BI para modelagem de dados, análise preditiva e criação de dashboards gerenciais.
 
 ### 🚀 Experience Highlights
 
