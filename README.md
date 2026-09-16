@@ -32,8 +32,8 @@ Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/aluiz-91?label=Seguidores&style=for-the-badge&color=0077B5" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/aluiz-91?label=Estrelas&style=for-the-badge&color=yellow" alt="Estrelas"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aluiz-91&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%"/>
 </p>
 
 <p align="center">
