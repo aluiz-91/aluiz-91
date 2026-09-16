@@ -32,9 +32,9 @@ Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&theme=synthwave&count_private=true" alt="Estatísticas do GitHub" width="80%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&count_private=true" alt="Estatísticas do GitHub" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluiz-91&theme=synthwave" alt="Sequência de Commits" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluiz-91&background=000000&title=facc15&text=ffffff&sideLabels=ffffff&sideNumbers=facc15&dates=ffffff&border=facc15&ring=facc15&fire=facc15" alt="Sequência de Commits" width="100%"/>
 </p>
