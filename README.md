@@ -29,9 +29,9 @@ Entusiasta da área de Dados & Automação. Atualmente me aprofundando em Python
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&count_private=true" alt="Estatísticas do GitHub" width="80%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=0d1117&title_color=ef4444&text_color=ffffff&icon_color=3b82f6&border_color=3b82f6&count_private=true" alt="Estatísticas do GitHub" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluiz-91&background=000000&title=facc15&text=ffffff&sideLabels=ffffff&sideNums=facc15&currStreakNum=facc15&currStreakLabel=facc15&dates=ffffff&border=facc15&ring=facc15&fire=facc15" alt="Sequência de Commits" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluiz-91&background=0d1117&title=ef4444&text=ffffff&sideLabels=ffffff&sideNums=3b82f6&currStreakNum=ef4444&currStreakLabel=ef4444&dates=ffffff&border=3b82f6&ring=ef4444&fire=ef4444" alt="Sequência de Commits" width="100%"/>
 </p>
