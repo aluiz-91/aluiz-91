@@ -34,5 +34,4 @@ Entusiasta da área de Dados & Automação. Atualmente a aprofundar-me em Python
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&border_color=30363d&count_private=true" alt="Estatísticas do GitHub" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluiz-91&background=0d1117&title=38bdf8&text=ffffff&sideLabels=ffffff&sideNums=38bdf8&currStreakNum=38bdf8&currStreakLabel=ffffff&dates=8b949e&border=30363d&ring=38bdf8&fire=38bdf8" alt="Sequência de Commits" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluiz-91&layout=compact&theme=dark&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=30363d&langs_count=6" alt="Linguagens Mais Usadas" width="98%"/>
 </p>
