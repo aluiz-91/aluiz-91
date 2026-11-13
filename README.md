@@ -1,18 +1,18 @@
-# André Luiz Amorim da Silva
+<img width="1173" height="733" alt="image" src="https://github.com/user-attachments/assets/758331df-9113-447a-b49d-a2fe67537cbf" /># André Luiz Amorim da Silva
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresilva-finanças)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al91dasilva@gmail.com)
 
-Entusiasta da área de Dados & Automação. Atualmente a aprofundar-me em Python, R, SQL e Power BI para modelagem de dados, análise preditiva e criação de dashboards gerenciais.
+Profissional e entusiasta da área de *Dados & Automação. Atualmente aprofundando conhecimentos em **Python, R, SQL, Power BI e IA Aplicada* para modelagem de dados, pipelines ETL, análise preditiva e criação de dashboards gerenciais.
 
 <img align="right" src="meu-avatar.jpg" alt="André Luiz Avatar" width="220" />
 
 ### 🚀 Experience Highlights
 
-* **Python, R & Automation:** Desenvolvimento de scripts de automação, manipulação de dados com Pandas, R e integrações via API.
-* **Database Management:** Modelagem, criação de schemas e consultas complexas em SQL (MySQL e SQL Server).
-* **Cloud & Data Pipelines:** Extração, limpeza, tratamento e carga de dados estruturados, com integração a ambientes em nuvem como Azure.
-* **Data Visualization & Analytics:** Criação de dashboards interativos no Power BI com DAX e modelagem star schema para suporte à tomada de decisão.
+* **Python, R & Automation:** Desenvolvimento de scripts de automação, manipulação de dados com Pandas, R, integrações via API e pipelines com modelos locais (Ollama/LLMs).
+* **Database Management:** * Modelagem relacional, criação de schemas e consultas complexas em SQL (MySQL, SQL Server e SQLite).
+* **Cloud & Data Pipelines:** Extração, limpeza, tratamento e carga (ETL) de dados estruturados, com integração a ambientes em nuvem como Microsoft Azure.
+* **Data Visualization & Analytics:** Criação de dashboards interativos no Power BI com DAX e modelagem Star Schema para suporte à tomada de decisão.
 
 ---
 
