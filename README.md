@@ -20,6 +20,7 @@ Entusiasta da área de Dados & Automação. Atualmente a aprofundar-me em Python
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-F2C811?style=for-the-badge&logo=SQL&logoColor=black" alt="SQL" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -35,17 +36,3 @@ Entusiasta da área de Dados & Automação. Atualmente a aprofundar-me em Python
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aluiz-91&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&border_color=30363d&count_private=true" alt="Estatísticas do GitHub" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluiz-91&background=0d1117&title=38bdf8&text=ffffff&sideLabels=ffffff&sideNums=38bdf8&currStreakNum=38bdf8&currStreakLabel=ffffff&dates=8b949e&border=30363d&ring=38bdf8&fire=38bdf8" alt="Sequência de Commits" width="48%"/>
 </p>
-
-## 📊 Foco Técnico & Ferramentas
-
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Power BI](https://shields.io)
-![Pandas](https://shields.io)
-![Azure](https://shields.io)
-![Ollama](https://shields.io)
-
-## 📊 Atividade no GitHub
-
-[![Gráfico de Atividade](https://vercel.app)](https://github.com)
-
